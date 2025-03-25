@@ -11,3 +11,6 @@ alalalalalalalalla
 
 # hfhfhfhfhf
 lkjhggggggggj
+
+
+# instrukcja obsługi
