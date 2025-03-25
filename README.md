@@ -8,3 +8,5 @@ mamamammaamamama
 
 # lalalele3
 alalalalalalalalla
+
+# instrukcja obsługi
